@@ -1,0 +1,137 @@
+{
+  "wordData": [
+    {
+      "word": "足す",
+      "composition": [
+        {
+          "type": "kanji",
+          "word": "足",
+          "hurikana": "た"
+        },
+        {
+          "type": "hiragana",
+          "word": "す"
+        }
+      ],
+      "meaning": "더하다, 보태다",
+      "level": 5
+    },
+    {
+      "word": "朝",
+      "composition": [
+        {
+          "type": "kanji",
+          "word": "朝",
+          "hurikana": "あさ"
+        }
+      ],
+      "meaning": "아침",
+      "level": 5
+    },
+    {
+      "word": "昼",
+      "composition": [
+        {
+          "type": "kanji",
+          "word": "昼",
+          "hurikana": "ひる"
+        }
+      ],
+      "meaning": "낮",
+      "level": 5
+    }
+  ],
+  "sentenceData": [
+    {
+      "topic": "足す",
+      "sentence": [
+        {
+          "type": "kanji",
+          "word": "足",
+          "hurikana": "た"
+        },
+        {
+          "type": "hiragana",
+          "word": "しました。"
+        }
+      ],
+      "select": "た,そ,す,し",
+      "answer": "た"
+    },
+    {
+      "topic": "足す",
+      "sentence": [
+        {
+          "type": "kanji",
+          "word": "足",
+          "hurikana": "た"
+        },
+        {
+          "type": "hiragana",
+          "word": "すのが"
+        },
+        {
+          "type": "kanji",
+          "word": "必要",
+          "hurikana": "ひつよう"
+        },
+        {
+          "type": "hiragana",
+          "word": "です。"
+        }
+      ],
+      "select": "た,そ,す,し",
+      "answer": "た"
+    },
+    {
+      "topic": "朝",
+      "sentence": [
+        {
+          "type": "kanji",
+          "word": "朝",
+          "hurikana": "あさ"
+        },
+        {
+          "type": "hiragana",
+          "word": "ごはんを"
+        },
+        {
+          "type": "kanji",
+          "word": "食",
+          "hurikana": "た"
+        },
+        {
+          "type": "hiragana",
+          "word": "べました。"
+        }
+      ],
+      "select": "あさ,ちょう,ひる,ばん",
+      "answer": "あさ"
+    },
+    {
+      "topic": "昼",
+      "sentence": [
+        {
+          "type": "kanji",
+          "word": "昼",
+          "hurikana": "ひる"
+        },
+        {
+          "type": "hiragana",
+          "word": "ごはんを"
+        },
+        {
+          "type": "kanji",
+          "word": "作",
+          "hurikana": "つく"
+        },
+        {
+          "type": "hiragana",
+          "word": "ります。"
+        }
+      ],
+      "select": "ひる,ちょう,あさ,ばん",
+      "answer": "ひる"
+    }
+  ]
+}
