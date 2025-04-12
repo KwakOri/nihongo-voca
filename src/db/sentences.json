@@ -1,0 +1,7090 @@
+[
+  {
+    "id": 1,
+    "word": "一",
+    "word_id": 1,
+    "sentence": "リンゴを一つください。",
+    "kr": "사과 하나 주세요.",
+    "tokens": [
+      {
+        "surface": "リンゴ",
+        "hasKanji": false
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "一",
+        "kanji": "一",
+        "furigana": "ひと",
+        "hasKanji": true
+      },
+      {
+        "surface": "つ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ください",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "word": "一",
+    "word_id": 1,
+    "sentence": "今日は一月一日です。",
+    "kr": "오늘은 1월 1일입니다.",
+    "tokens": [
+      {
+        "surface": "今日",
+        "kanji": "今日",
+        "furigana": "きょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "一",
+        "kanji": "一",
+        "furigana": "いち",
+        "hasKanji": true
+      },
+      {
+        "surface": "月",
+        "kanji": "月",
+        "furigana": "がつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "一日",
+        "kanji": "一日",
+        "furigana": "ついたち",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "word": "二",
+    "word_id": 2,
+    "sentence": "弟は二歳です。",
+    "kr": "남동생은 두 살입니다.",
+    "tokens": [
+      {
+        "surface": "弟",
+        "kanji": "弟",
+        "furigana": "おとうと",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "二",
+        "kanji": "二",
+        "furigana": "に",
+        "hasKanji": true
+      },
+      {
+        "surface": "歳",
+        "kanji": "歳",
+        "furigana": "さい",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "word": "二",
+    "word_id": 2,
+    "sentence": "ケーキを二つ買いました。",
+    "kr": "케이크를 두 개 샀습니다.",
+    "tokens": [
+      {
+        "surface": "ケーキ",
+        "hasKanji": false
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "二",
+        "kanji": "二",
+        "furigana": "ふた",
+        "hasKanji": true
+      },
+      {
+        "surface": "つ",
+        "hasKanji": false
+      },
+      {
+        "surface": "買い",
+        "kanji": "買",
+        "furigana": "か",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "word": "三",
+    "word_id": 3,
+    "sentence": "バスは三分後に来ます。",
+    "kr": "버스는 3분 후에 옵니다.",
+    "tokens": [
+      {
+        "surface": "バス",
+        "hasKanji": false
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "三",
+        "kanji": "三",
+        "furigana": "さん",
+        "hasKanji": true
+      },
+      {
+        "surface": "分",
+        "kanji": "分",
+        "furigana": "ふん",
+        "hasKanji": true
+      },
+      {
+        "surface": "後",
+        "kanji": "後",
+        "furigana": "ご",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "来",
+        "kanji": "来",
+        "furigana": "き",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "word": "三",
+    "word_id": 3,
+    "sentence": "三月は春が始まる季節です。",
+    "kr": "3월은 봄이 시작되는 계절입니다.",
+    "tokens": [
+      {
+        "surface": "三",
+        "kanji": "三",
+        "furigana": "さん",
+        "hasKanji": true
+      },
+      {
+        "surface": "月",
+        "kanji": "月",
+        "furigana": "がつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "春",
+        "kanji": "春",
+        "furigana": "はる",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "始まる",
+        "kanji": "始",
+        "furigana": "はじ",
+        "hasKanji": true
+      },
+      {
+        "surface": "季節",
+        "kanji": "季節",
+        "furigana": "きせつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "word": "四",
+    "word_id": 4,
+    "sentence": "四人家族です。",
+    "kr": "네 명 가족입니다.",
+    "tokens": [
+      {
+        "surface": "四",
+        "kanji": "四",
+        "furigana": "よん",
+        "hasKanji": true
+      },
+      {
+        "surface": "人",
+        "kanji": "人",
+        "furigana": "にん",
+        "hasKanji": true
+      },
+      {
+        "surface": "家族",
+        "kanji": "家族",
+        "furigana": "かぞく",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "word": "四",
+    "word_id": 4,
+    "sentence": "四月には桜が咲きます。",
+    "kr": "4월에는 벚꽃이 핍니다.",
+    "tokens": [
+      {
+        "surface": "四",
+        "kanji": "四",
+        "furigana": "よん",
+        "hasKanji": true
+      },
+      {
+        "surface": "月",
+        "kanji": "月",
+        "furigana": "がつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "桜",
+        "kanji": "桜",
+        "furigana": "さくら",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "咲き",
+        "kanji": "咲",
+        "furigana": "さ",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "word": "五",
+    "word_id": 5,
+    "sentence": "本を五冊読みました。",
+    "kr": "책을 다섯 권 읽었습니다.",
+    "tokens": [
+      {
+        "surface": "本",
+        "kanji": "本",
+        "furigana": "ほん",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "五",
+        "kanji": "五",
+        "furigana": "ご",
+        "hasKanji": true
+      },
+      {
+        "surface": "冊",
+        "kanji": "冊",
+        "furigana": "さつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "読み",
+        "kanji": "読",
+        "furigana": "よ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "word": "五",
+    "word_id": 5,
+    "sentence": "五時に待ち合わせましょう。",
+    "kr": "다섯 시에 만나기로 합시다.",
+    "tokens": [
+      {
+        "surface": "五",
+        "kanji": "五",
+        "furigana": "ご",
+        "hasKanji": true
+      },
+      {
+        "surface": "時",
+        "kanji": "時",
+        "furigana": "じ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "待ち合わせ",
+        "kanji": "待合",
+        "furigana": "まちあわせ",
+        "hasKanji": true
+      },
+      {
+        "surface": "ましょう",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "word": "六",
+    "word_id": 6,
+    "sentence": "サイコロの目が六でした。",
+    "kr": "주사위의 숫자가 6이 나왔습니다.",
+    "tokens": [
+      {
+        "surface": "サイコロ",
+        "hasKanji": false
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "目",
+        "kanji": "目",
+        "furigana": "め",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "六",
+        "kanji": "六",
+        "furigana": "ろく",
+        "hasKanji": true
+      },
+      {
+        "surface": "でし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "word": "六",
+    "word_id": 6,
+    "sentence": "彼女の誕生日は六月です。",
+    "kr": "그녀의 생일은 6월입니다.",
+    "tokens": [
+      {
+        "surface": "彼女",
+        "kanji": "彼女",
+        "furigana": "かのじょ",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "誕生",
+        "kanji": "誕生",
+        "furigana": "たんじょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "日",
+        "kanji": "日",
+        "furigana": "ひ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "六",
+        "kanji": "六",
+        "furigana": "ろく",
+        "hasKanji": true
+      },
+      {
+        "surface": "月",
+        "kanji": "月",
+        "furigana": "がつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "word": "七",
+    "word_id": 7,
+    "sentence": "七色の虹が空にかかっています。",
+    "kr": "일곱 색깔 무지개가 하늘에 떠 있습니다.",
+    "tokens": [
+      {
+        "surface": "七色",
+        "kanji": "七色",
+        "furigana": "なないろ",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "虹",
+        "kanji": "虹",
+        "furigana": "にじ",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "空",
+        "kanji": "空",
+        "furigana": "そら",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "かかっ",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "word": "七",
+    "word_id": 7,
+    "sentence": "今晩七時に映画が始まります。",
+    "kr": "오늘 저녁 7시에 영화가 시작됩니다.",
+    "tokens": [
+      {
+        "surface": "今晩",
+        "kanji": "今晩",
+        "furigana": "こんばん",
+        "hasKanji": true
+      },
+      {
+        "surface": "七",
+        "kanji": "七",
+        "furigana": "しち",
+        "hasKanji": true
+      },
+      {
+        "surface": "時",
+        "kanji": "時",
+        "furigana": "じ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "映画",
+        "kanji": "映画",
+        "furigana": "えいが",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "始まり",
+        "kanji": "始",
+        "furigana": "はじ",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "word": "八",
+    "word_id": 8,
+    "sentence": "八月は暑い季節です。",
+    "kr": "8월은 더운 계절입니다.",
+    "tokens": [
+      {
+        "surface": "八",
+        "kanji": "八",
+        "furigana": "はち",
+        "hasKanji": true
+      },
+      {
+        "surface": "月",
+        "kanji": "月",
+        "furigana": "がつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "暑い",
+        "kanji": "暑",
+        "furigana": "あつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "季節",
+        "kanji": "季節",
+        "furigana": "きせつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "word": "八",
+    "word_id": 8,
+    "sentence": "八つのお菓子があります。",
+    "kr": "여덟 개의 과자가 있습니다.",
+    "tokens": [
+      {
+        "surface": "八",
+        "kanji": "八",
+        "furigana": "よう",
+        "hasKanji": true
+      },
+      {
+        "surface": "つ",
+        "hasKanji": false
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "お",
+        "hasKanji": false
+      },
+      {
+        "surface": "菓子",
+        "kanji": "菓子",
+        "furigana": "かし",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "word": "九",
+    "word_id": 9,
+    "sentence": "猫には九つの命があると言われます。",
+    "kr": "고양이는 목숨이 아홉 개 있다고 합니다.",
+    "tokens": [
+      {
+        "surface": "猫",
+        "kanji": "猫",
+        "furigana": "ねこ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "九",
+        "kanji": "九",
+        "furigana": "ここの",
+        "hasKanji": true
+      },
+      {
+        "surface": "つ",
+        "hasKanji": false
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "命",
+        "kanji": "命",
+        "furigana": "いのち",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "ある",
+        "hasKanji": false
+      },
+      {
+        "surface": "と",
+        "hasKanji": false
+      },
+      {
+        "surface": "言わ",
+        "kanji": "言",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "れ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "word": "九",
+    "word_id": 9,
+    "sentence": "九月に旅行する予定です。",
+    "kr": "9월에 여행할 예정입니다.",
+    "tokens": [
+      {
+        "surface": "九",
+        "kanji": "九",
+        "furigana": "きゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "月",
+        "kanji": "月",
+        "furigana": "がつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "旅行",
+        "kanji": "旅行",
+        "furigana": "りょこう",
+        "hasKanji": true
+      },
+      {
+        "surface": "する",
+        "hasKanji": false
+      },
+      {
+        "surface": "予定",
+        "kanji": "予定",
+        "furigana": "よてい",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "word": "十",
+    "word_id": 10,
+    "sentence": "彼は十歳になりました。",
+    "kr": "그는 열 살이 되었습니다.",
+    "tokens": [
+      {
+        "surface": "彼",
+        "kanji": "彼",
+        "furigana": "かれ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "十",
+        "kanji": "十",
+        "furigana": "じゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "歳",
+        "kanji": "歳",
+        "furigana": "さい",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "なり",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "word": "十",
+    "word_id": 10,
+    "sentence": "問題が十問あります。",
+    "kr": "문제가 열 개 있습니다.",
+    "tokens": [
+      {
+        "surface": "問題",
+        "kanji": "問題",
+        "furigana": "もんだい",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "十",
+        "kanji": "十",
+        "furigana": "じゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "問",
+        "kanji": "問",
+        "furigana": "もん",
+        "hasKanji": true
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "word": "百",
+    "word_id": 11,
+    "sentence": "この本は百円です。",
+    "kr": "이 책은 100엔입니다.",
+    "tokens": [
+      {
+        "surface": "この",
+        "hasKanji": false
+      },
+      {
+        "surface": "本",
+        "kanji": "本",
+        "furigana": "ほん",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "百",
+        "kanji": "百",
+        "furigana": "ひゃく",
+        "hasKanji": true
+      },
+      {
+        "surface": "円",
+        "kanji": "円",
+        "furigana": "えん",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "word": "百",
+    "word_id": 11,
+    "sentence": "百メートル走で優勝しました。",
+    "kr": "100미터 달리기에서 우승했습니다.",
+    "tokens": [
+      {
+        "surface": "百",
+        "kanji": "百",
+        "furigana": "ひゃく",
+        "hasKanji": true
+      },
+      {
+        "surface": "メートル",
+        "hasKanji": false
+      },
+      {
+        "surface": "走",
+        "kanji": "走",
+        "furigana": "そう",
+        "hasKanji": true
+      },
+      {
+        "surface": "で",
+        "hasKanji": false
+      },
+      {
+        "surface": "優勝",
+        "kanji": "優勝",
+        "furigana": "ゆうしょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "word": "千",
+    "word_id": 12,
+    "sentence": "その町には千人が住んでいます。",
+    "kr": "그 마을에는 천 명이 살고 있습니다.",
+    "tokens": [
+      {
+        "surface": "その",
+        "hasKanji": false
+      },
+      {
+        "surface": "町",
+        "kanji": "町",
+        "furigana": "まち",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "千",
+        "kanji": "千",
+        "furigana": "せん",
+        "hasKanji": true
+      },
+      {
+        "surface": "人",
+        "kanji": "人",
+        "furigana": "にん",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "住ん",
+        "kanji": "住",
+        "furigana": "す",
+        "hasKanji": true
+      },
+      {
+        "surface": "で",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "word": "千",
+    "word_id": 12,
+    "sentence": "千円札を一枚ください。",
+    "kr": "천 엔짜리 지폐를 한 장 주세요.",
+    "tokens": [
+      {
+        "surface": "千",
+        "kanji": "千",
+        "furigana": "せん",
+        "hasKanji": true
+      },
+      {
+        "surface": "円",
+        "kanji": "円",
+        "furigana": "えん",
+        "hasKanji": true
+      },
+      {
+        "surface": "札",
+        "kanji": "札",
+        "furigana": "さつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "一",
+        "kanji": "一",
+        "furigana": "いち",
+        "hasKanji": true
+      },
+      {
+        "surface": "枚",
+        "kanji": "枚",
+        "furigana": "まい",
+        "hasKanji": true
+      },
+      {
+        "surface": "ください",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "word": "万",
+    "word_id": 13,
+    "sentence": "彼は一万円を持っています。",
+    "kr": "그는 만 엔을 가지고 있습니다.",
+    "tokens": [
+      {
+        "surface": "彼",
+        "kanji": "彼",
+        "furigana": "かれ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "一",
+        "kanji": "一",
+        "furigana": "いち",
+        "hasKanji": true
+      },
+      {
+        "surface": "万",
+        "kanji": "万",
+        "furigana": "まん",
+        "hasKanji": true
+      },
+      {
+        "surface": "円",
+        "kanji": "円",
+        "furigana": "えん",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "持っ",
+        "kanji": "持",
+        "furigana": "も",
+        "hasKanji": true
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "word": "万",
+    "word_id": 13,
+    "sentence": "その祭りには万人が集まりました。",
+    "kr": "그 축제에는 만 명이 모였습니다.",
+    "tokens": [
+      {
+        "surface": "その",
+        "hasKanji": false
+      },
+      {
+        "surface": "祭り",
+        "kanji": "祭",
+        "furigana": "まつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "万人",
+        "kanji": "万人",
+        "furigana": "ばんにん",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "集まり",
+        "kanji": "集",
+        "furigana": "あつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "word": "以上",
+    "word_id": 14,
+    "sentence": "二十歳以上の方は参加できます。",
+    "kr": "스무 살 이상인 분은 참가할 수 있습니다.",
+    "tokens": [
+      {
+        "surface": "二十",
+        "kanji": "二十",
+        "furigana": "にじゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "歳",
+        "kanji": "歳",
+        "furigana": "さい",
+        "hasKanji": true
+      },
+      {
+        "surface": "以上",
+        "kanji": "以上",
+        "furigana": "いじょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "方",
+        "kanji": "方",
+        "furigana": "ほう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "参加",
+        "kanji": "参加",
+        "furigana": "さんか",
+        "hasKanji": true
+      },
+      {
+        "surface": "でき",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "word": "以上",
+    "word_id": 14,
+    "sentence": "それ以上は食べられません。",
+    "kr": "그 이상은 먹을 수 없습니다.",
+    "tokens": [
+      {
+        "surface": "それ",
+        "hasKanji": false
+      },
+      {
+        "surface": "以上",
+        "kanji": "以上",
+        "furigana": "いじょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "食べ",
+        "kanji": "食",
+        "furigana": "た",
+        "hasKanji": true
+      },
+      {
+        "surface": "られ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ませ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ん",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "word": "以下",
+    "word_id": 15,
+    "sentence": "十歳以下は無料です。",
+    "kr": "열 살 이하는 무료입니다.",
+    "tokens": [
+      {
+        "surface": "十",
+        "kanji": "十",
+        "furigana": "じゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "歳",
+        "kanji": "歳",
+        "furigana": "さい",
+        "hasKanji": true
+      },
+      {
+        "surface": "以下",
+        "kanji": "以下",
+        "furigana": "いか",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "無料",
+        "kanji": "無料",
+        "furigana": "むりょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "word": "以下",
+    "word_id": 15,
+    "sentence": "気温が零度以下に下がりました。",
+    "kr": "기온이 0도 이하로 내려갔습니다.",
+    "tokens": [
+      {
+        "surface": "気温",
+        "kanji": "気温",
+        "furigana": "きおん",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "零",
+        "kanji": "零",
+        "furigana": "れい",
+        "hasKanji": true
+      },
+      {
+        "surface": "度",
+        "kanji": "度",
+        "furigana": "ど",
+        "hasKanji": true
+      },
+      {
+        "surface": "以下",
+        "kanji": "以下",
+        "furigana": "いか",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "下がり",
+        "kanji": "下",
+        "furigana": "さ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "word": "数",
+    "word_id": 16,
+    "sentence": "星の数が多すぎて数えられません。",
+    "kr": "별의 수가 너무 많아서 셀 수 없습니다.",
+    "tokens": [
+      {
+        "surface": "星",
+        "kanji": "星",
+        "furigana": "ほし",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "数",
+        "kanji": "数",
+        "furigana": "かず",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "多",
+        "kanji": "多",
+        "furigana": "おお",
+        "hasKanji": true
+      },
+      {
+        "surface": "すぎ",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "数え",
+        "kanji": "数",
+        "furigana": "かぞ",
+        "hasKanji": true
+      },
+      {
+        "surface": "られ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ませ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ん",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "word": "数",
+    "word_id": 16,
+    "sentence": "数日間旅行に行きます。",
+    "kr": "며칠간 여행을 갑니다.",
+    "tokens": [
+      {
+        "surface": "数",
+        "kanji": "数",
+        "furigana": "すう",
+        "hasKanji": true
+      },
+      {
+        "surface": "日間",
+        "kanji": "日間",
+        "furigana": "にちかん",
+        "hasKanji": true
+      },
+      {
+        "surface": "旅行",
+        "kanji": "旅行",
+        "furigana": "りょこう",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "行き",
+        "kanji": "行",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "word": "数える",
+    "word_id": 17,
+    "sentence": "子どもが指で数えています。",
+    "kr": "아이가 손가락으로 세고 있습니다.",
+    "tokens": [
+      {
+        "surface": "子ども",
+        "kanji": "子",
+        "furigana": "こ",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "指",
+        "kanji": "指",
+        "furigana": "ゆび",
+        "hasKanji": true
+      },
+      {
+        "surface": "で",
+        "hasKanji": false
+      },
+      {
+        "surface": "数え",
+        "kanji": "数",
+        "furigana": "かぞ",
+        "hasKanji": true
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "word": "数える",
+    "word_id": 17,
+    "sentence": "参加人数を数えました。",
+    "kr": "참가 인원을 셌습니다.",
+    "tokens": [
+      {
+        "surface": "参加",
+        "kanji": "参加",
+        "furigana": "さんか",
+        "hasKanji": true
+      },
+      {
+        "surface": "人数",
+        "kanji": "人数",
+        "furigana": "にんずう",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "数え",
+        "kanji": "数",
+        "furigana": "かぞ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "word": "割る",
+    "word_id": 18,
+    "sentence": "卵を割ってフライパンに入れました。",
+    "kr": "계란을 깨서 프라이팬에 넣었습니다.",
+    "tokens": [
+      {
+        "surface": "卵",
+        "kanji": "卵",
+        "furigana": "たまご",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "割っ",
+        "kanji": "割",
+        "furigana": "わ",
+        "hasKanji": true
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "フライパン",
+        "hasKanji": false
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "入れ",
+        "kanji": "入",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "word": "割る",
+    "word_id": 18,
+    "sentence": "ガラスを割らないように気をつけてください。",
+    "kr": "유리를 깨뜨리지 않도록 조심하세요.",
+    "tokens": [
+      {
+        "surface": "ガラス",
+        "hasKanji": false
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "割ら",
+        "kanji": "割",
+        "furigana": "わ",
+        "hasKanji": true
+      },
+      {
+        "surface": "ない",
+        "hasKanji": false
+      },
+      {
+        "surface": "よう",
+        "hasKanji": false
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "気",
+        "kanji": "気",
+        "furigana": "き",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "つけ",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "ください",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "word": "足す",
+    "word_id": 19,
+    "sentence": "砂糖を少し足してください。",
+    "kr": "설탕을 조금 더 넣어 주세요.",
+    "tokens": [
+      {
+        "surface": "砂糖",
+        "kanji": "砂糖",
+        "furigana": "さとう",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "少し",
+        "kanji": "少",
+        "furigana": "すこ",
+        "hasKanji": true
+      },
+      {
+        "surface": "足し",
+        "kanji": "足",
+        "furigana": "た",
+        "hasKanji": true
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "ください",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "word": "足す",
+    "word_id": 19,
+    "sentence": "三に四を足すと七になります。",
+    "kr": "3에 4를 더하면 7이 됩니다.",
+    "tokens": [
+      {
+        "surface": "三",
+        "kanji": "三",
+        "furigana": "さん",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "四",
+        "kanji": "四",
+        "furigana": "よん",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "足す",
+        "kanji": "足",
+        "furigana": "た",
+        "hasKanji": true
+      },
+      {
+        "surface": "と",
+        "hasKanji": false
+      },
+      {
+        "surface": "七",
+        "kanji": "七",
+        "furigana": "なな",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "なり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "word": "朝",
+    "word_id": 20,
+    "sentence": "朝早く起きました。",
+    "kr": "아침 일찍 일어났습니다.",
+    "tokens": [
+      {
+        "surface": "朝",
+        "kanji": "朝",
+        "furigana": "あさ",
+        "hasKanji": true
+      },
+      {
+        "surface": "早く",
+        "kanji": "早",
+        "furigana": "はや",
+        "hasKanji": true
+      },
+      {
+        "surface": "起き",
+        "kanji": "起",
+        "furigana": "お",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "word": "朝",
+    "word_id": 20,
+    "sentence": "毎朝コーヒーを飲みます。",
+    "kr": "매일 아침 커피를 마십니다.",
+    "tokens": [
+      {
+        "surface": "毎朝",
+        "kanji": "毎朝",
+        "furigana": "まいあさ",
+        "hasKanji": true
+      },
+      {
+        "surface": "コーヒー",
+        "hasKanji": false
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "飲み",
+        "kanji": "飲",
+        "furigana": "の",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "word": "昼",
+    "word_id": 21,
+    "sentence": "昼は弁当を食べました。",
+    "kr": "점심에는 도시락을 먹었습니다.",
+    "tokens": [
+      {
+        "surface": "昼",
+        "kanji": "昼",
+        "furigana": "ひる",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "弁当",
+        "kanji": "弁当",
+        "furigana": "べんとう",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "食べ",
+        "kanji": "食",
+        "furigana": "た",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "word": "昼",
+    "word_id": 21,
+    "sentence": "昼の天気は暖かかったです。",
+    "kr": "낮의 날씨는 따뜻했습니다.",
+    "tokens": [
+      {
+        "surface": "昼",
+        "kanji": "昼",
+        "furigana": "ひる",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "天気",
+        "kanji": "天気",
+        "furigana": "てんき",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "暖かかっ",
+        "kanji": "暖",
+        "furigana": "あたた",
+        "hasKanji": true
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "word": "昼間",
+    "word_id": 22,
+    "sentence": "昼間は人が多いです。",
+    "kr": "낮 동안에는 사람이 많습니다.",
+    "tokens": [
+      {
+        "surface": "昼間",
+        "kanji": "昼間",
+        "furigana": "ひるま",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "人",
+        "kanji": "人",
+        "furigana": "ひと",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "多い",
+        "kanji": "多",
+        "furigana": "おお",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "word": "昼間",
+    "word_id": 22,
+    "sentence": "昼間は暑いので出かけません。",
+    "kr": "낮 동안은 더워서 외출하지 않습니다.",
+    "tokens": [
+      {
+        "surface": "昼間",
+        "kanji": "昼間",
+        "furigana": "ひるま",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "暑い",
+        "kanji": "暑",
+        "furigana": "あつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "で",
+        "hasKanji": false
+      },
+      {
+        "surface": "出かけ",
+        "kanji": "出",
+        "furigana": "で",
+        "hasKanji": true
+      },
+      {
+        "surface": "ませ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ん",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "word": "夕方",
+    "word_id": 23,
+    "sentence": "夕方散歩に行きました。",
+    "kr": "저녁 무렵에 산책을 갔습니다.",
+    "tokens": [
+      {
+        "surface": "夕方",
+        "kanji": "夕方",
+        "furigana": "ゆうがた",
+        "hasKanji": true
+      },
+      {
+        "surface": "散歩",
+        "kanji": "散歩",
+        "furigana": "さんぽ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "行き",
+        "kanji": "行",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "word": "夕方",
+    "word_id": 23,
+    "sentence": "夕方から雨が降り始めました。",
+    "kr": "저녁 무렵부터 비가 내리기 시작했습니다.",
+    "tokens": [
+      {
+        "surface": "夕方",
+        "kanji": "夕方",
+        "furigana": "ゆうがた",
+        "hasKanji": true
+      },
+      {
+        "surface": "から",
+        "hasKanji": false
+      },
+      {
+        "surface": "雨",
+        "kanji": "雨",
+        "furigana": "あめ",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "降り",
+        "kanji": "降",
+        "furigana": "ふ",
+        "hasKanji": true
+      },
+      {
+        "surface": "始め",
+        "kanji": "始",
+        "furigana": "はじ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "word": "夕べ",
+    "word_id": 24,
+    "sentence": "夕べはよく眠れましたか。",
+    "kr": "어젯밤 잘 잤습니까?",
+    "tokens": [
+      {
+        "surface": "夕べ",
+        "kanji": "夕",
+        "furigana": "ゆう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "よく",
+        "hasKanji": false
+      },
+      {
+        "surface": "眠れ",
+        "kanji": "眠",
+        "furigana": "ねむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "か",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "word": "夕べ",
+    "word_id": 24,
+    "sentence": "夕べ友達と電話しました。",
+    "kr": "어젯밤 친구와 통화했습니다.",
+    "tokens": [
+      {
+        "surface": "夕べ",
+        "kanji": "夕",
+        "furigana": "ゆう",
+        "hasKanji": true
+      },
+      {
+        "surface": "友達",
+        "kanji": "友達",
+        "furigana": "ともだち",
+        "hasKanji": true
+      },
+      {
+        "surface": "と",
+        "hasKanji": false
+      },
+      {
+        "surface": "電話",
+        "kanji": "電話",
+        "furigana": "でんわ",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "word": "晩",
+    "word_id": 25,
+    "sentence": "晩ご飯はカレーでした。",
+    "kr": "저녁 식사는 카레였습니다.",
+    "tokens": [
+      {
+        "surface": "晩ご飯",
+        "kanji": "晩飯",
+        "furigana": "ばんごはん",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "カレー",
+        "hasKanji": false
+      },
+      {
+        "surface": "でし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "word": "晩",
+    "word_id": 25,
+    "sentence": "晩はゆっくり休んでください。",
+    "kr": "저녁에는 푹 쉬세요.",
+    "tokens": [
+      {
+        "surface": "晩",
+        "kanji": "晩",
+        "furigana": "ばん",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "ゆっくり",
+        "hasKanji": false
+      },
+      {
+        "surface": "休ん",
+        "kanji": "休",
+        "furigana": "やす",
+        "hasKanji": true
+      },
+      {
+        "surface": "で",
+        "hasKanji": false
+      },
+      {
+        "surface": "ください",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "word": "夜",
+    "word_id": 26,
+    "sentence": "夜は星がきれいです。",
+    "kr": "밤에는 별이 아름답습니다.",
+    "tokens": [
+      {
+        "surface": "夜",
+        "kanji": "夜",
+        "furigana": "よる",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "星",
+        "kanji": "星",
+        "furigana": "ほし",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "きれい",
+        "hasKanji": false
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "word": "夜",
+    "word_id": 26,
+    "sentence": "夜遅くまで勉強しました。",
+    "kr": "밤 늦게까지 공부했습니다.",
+    "tokens": [
+      {
+        "surface": "夜",
+        "kanji": "夜",
+        "furigana": "よる",
+        "hasKanji": true
+      },
+      {
+        "surface": "遅く",
+        "kanji": "遅",
+        "furigana": "おそ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まで",
+        "hasKanji": false
+      },
+      {
+        "surface": "勉強",
+        "kanji": "勉強",
+        "furigana": "べんきょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "word": "夜中",
+    "word_id": 27,
+    "sentence": "夜中に地震がありました。",
+    "kr": "한밤중에 지진이 있었습니다.",
+    "tokens": [
+      {
+        "surface": "夜中",
+        "kanji": "夜中",
+        "furigana": "よなか",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "地震",
+        "kanji": "地震",
+        "furigana": "じしん",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "word": "夜中",
+    "word_id": 27,
+    "sentence": "夜中に目が覚めました。",
+    "kr": "한밤중에 눈이 떠졌습니다.",
+    "tokens": [
+      {
+        "surface": "夜中",
+        "kanji": "夜中",
+        "furigana": "よなか",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "目",
+        "kanji": "目",
+        "furigana": "め",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "覚め",
+        "kanji": "覚",
+        "furigana": "さ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "word": "深夜",
+    "word_id": 28,
+    "sentence": "深夜にテレビを見ました。",
+    "kr": "심야에 텔레비전을 봤습니다.",
+    "tokens": [
+      {
+        "surface": "深夜",
+        "kanji": "深夜",
+        "furigana": "しんや",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "テレビ",
+        "hasKanji": false
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "見",
+        "kanji": "見",
+        "furigana": "み",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "word": "深夜",
+    "word_id": 28,
+    "sentence": "深夜のバスに乗りました。",
+    "kr": "심야 버스를 탔습니다.",
+    "tokens": [
+      {
+        "surface": "深夜",
+        "kanji": "深夜",
+        "furigana": "しんや",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "バス",
+        "hasKanji": false
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "乗り",
+        "kanji": "乗",
+        "furigana": "の",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "word": "今朝",
+    "word_id": 29,
+    "sentence": "今朝はパンを食べました。",
+    "kr": "오늘 아침에 빵을 먹었습니다.",
+    "tokens": [
+      {
+        "surface": "今朝",
+        "kanji": "今朝",
+        "furigana": "けさ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "パン",
+        "hasKanji": false
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "食べ",
+        "kanji": "食",
+        "furigana": "た",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "word": "今朝",
+    "word_id": 29,
+    "sentence": "今朝は早く起きました。",
+    "kr": "오늘 아침 일찍 일어났습니다.",
+    "tokens": [
+      {
+        "surface": "今朝",
+        "kanji": "今朝",
+        "furigana": "けさ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "早く",
+        "kanji": "早",
+        "furigana": "はや",
+        "hasKanji": true
+      },
+      {
+        "surface": "起き",
+        "kanji": "起",
+        "furigana": "お",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "word": "今夜",
+    "word_id": 30,
+    "sentence": "今夜は寒くなるでしょう。",
+    "kr": "오늘 밤은 추워지겠죠.",
+    "tokens": [
+      {
+        "surface": "今夜",
+        "kanji": "今夜",
+        "furigana": "こんや",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "寒く",
+        "kanji": "寒",
+        "furigana": "さむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "なる",
+        "hasKanji": false
+      },
+      {
+        "surface": "でしょう",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "word": "今夜",
+    "word_id": 30,
+    "sentence": "今夜友達と映画を見ます。",
+    "kr": "오늘 밤 친구와 영화를 봅니다.",
+    "tokens": [
+      {
+        "surface": "今夜",
+        "kanji": "今夜",
+        "furigana": "こんや",
+        "hasKanji": true
+      },
+      {
+        "surface": "友達",
+        "kanji": "友達",
+        "furigana": "ともだち",
+        "hasKanji": true
+      },
+      {
+        "surface": "と",
+        "hasKanji": false
+      },
+      {
+        "surface": "映画",
+        "kanji": "映画",
+        "furigana": "えいが",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "見",
+        "kanji": "見",
+        "furigana": "み",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "word": "毎朝",
+    "word_id": 31,
+    "sentence": "毎朝ジョギングをしています。",
+    "kr": "매일 아침 조깅을 하고 있습니다.",
+    "tokens": [
+      {
+        "surface": "毎朝",
+        "kanji": "毎朝",
+        "furigana": "まいあさ",
+        "hasKanji": true
+      },
+      {
+        "surface": "ジョギング",
+        "hasKanji": false
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "word": "毎朝",
+    "word_id": 31,
+    "sentence": "毎朝七時に起きます。",
+    "kr": "매일 아침 7시에 일어납니다.",
+    "tokens": [
+      {
+        "surface": "毎朝",
+        "kanji": "毎朝",
+        "furigana": "まいあさ",
+        "hasKanji": true
+      },
+      {
+        "surface": "七",
+        "kanji": "七",
+        "furigana": "しち",
+        "hasKanji": true
+      },
+      {
+        "surface": "時",
+        "kanji": "時",
+        "furigana": "じ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "起き",
+        "kanji": "起",
+        "furigana": "お",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "word": "毎晩",
+    "word_id": 32,
+    "sentence": "毎晩十時に寝ます。",
+    "kr": "매일 밤 10시에 잡니다.",
+    "tokens": [
+      {
+        "surface": "毎晩",
+        "kanji": "毎晩",
+        "furigana": "まいばん",
+        "hasKanji": true
+      },
+      {
+        "surface": "十",
+        "kanji": "十",
+        "furigana": "じゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "時",
+        "kanji": "時",
+        "furigana": "じ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "寝",
+        "kanji": "寝",
+        "furigana": "ね",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "word": "毎晩",
+    "word_id": 32,
+    "sentence": "毎晩音楽を聴きます。",
+    "kr": "매일 밤 음악을 듣습니다.",
+    "tokens": [
+      {
+        "surface": "毎晩",
+        "kanji": "毎晩",
+        "furigana": "まいばん",
+        "hasKanji": true
+      },
+      {
+        "surface": "音楽",
+        "kanji": "音楽",
+        "furigana": "おんがく",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "聴き",
+        "kanji": "聴",
+        "furigana": "き",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "word": "午前",
+    "word_id": 33,
+    "sentence": "会議は午前中にあります。",
+    "kr": "회의는 오전 중에 있습니다.",
+    "tokens": [
+      {
+        "surface": "会議",
+        "kanji": "会議",
+        "furigana": "かいぎ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "午前",
+        "kanji": "午前",
+        "furigana": "ごぜん",
+        "hasKanji": true
+      },
+      {
+        "surface": "中",
+        "kanji": "中",
+        "furigana": "ちゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "word": "午前",
+    "word_id": 33,
+    "sentence": "午前十時に出発します。",
+    "kr": "오전 10시에 출발합니다.",
+    "tokens": [
+      {
+        "surface": "午前",
+        "kanji": "午前",
+        "furigana": "ごぜん",
+        "hasKanji": true
+      },
+      {
+        "surface": "十",
+        "kanji": "十",
+        "furigana": "じゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "時",
+        "kanji": "時",
+        "furigana": "じ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "出発",
+        "kanji": "出発",
+        "furigana": "しゅっぱつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "word": "午後",
+    "word_id": 34,
+    "sentence": "午後から授業があります。",
+    "kr": "오후부터 수업이 있습니다.",
+    "tokens": [
+      {
+        "surface": "午後",
+        "kanji": "午後",
+        "furigana": "ごご",
+        "hasKanji": true
+      },
+      {
+        "surface": "から",
+        "hasKanji": false
+      },
+      {
+        "surface": "授業",
+        "kanji": "授業",
+        "furigana": "じゅぎょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "word": "午後",
+    "word_id": 34,
+    "sentence": "午後三時にお茶を飲みました。",
+    "kr": "오후 3시에 차를 마셨습니다.",
+    "tokens": [
+      {
+        "surface": "午後",
+        "kanji": "午後",
+        "furigana": "ごご",
+        "hasKanji": true
+      },
+      {
+        "surface": "三",
+        "kanji": "三",
+        "furigana": "さん",
+        "hasKanji": true
+      },
+      {
+        "surface": "時",
+        "kanji": "時",
+        "furigana": "じ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "お",
+        "hasKanji": false
+      },
+      {
+        "surface": "茶",
+        "kanji": "茶",
+        "furigana": "ちゃ",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "飲み",
+        "kanji": "飲",
+        "furigana": "の",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "word": "昔",
+    "word_id": 35,
+    "sentence": "昔、この町には川がありました。",
+    "kr": "옛날 이 마을에는 강이 있었습니다.",
+    "tokens": [
+      {
+        "surface": "昔",
+        "kanji": "昔",
+        "furigana": "むかし",
+        "hasKanji": true
+      },
+      {
+        "surface": "、",
+        "hasKanji": false
+      },
+      {
+        "surface": "この",
+        "hasKanji": false
+      },
+      {
+        "surface": "町",
+        "kanji": "町",
+        "furigana": "まち",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "川",
+        "kanji": "川",
+        "furigana": "かわ",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "word": "昔",
+    "word_id": 35,
+    "sentence": "昔話を子どもに聞かせました。",
+    "kr": "옛날 이야기를 아이에게 들려줬습니다.",
+    "tokens": [
+      {
+        "surface": "昔話",
+        "kanji": "昔話",
+        "furigana": "むかしばなし",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "子ども",
+        "kanji": "子",
+        "furigana": "こ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "聞か",
+        "kanji": "聞",
+        "furigana": "き",
+        "hasKanji": true
+      },
+      {
+        "surface": "せ",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "word": "今",
+    "word_id": 36,
+    "sentence": "今、何をしていますか？",
+    "kr": "지금 무엇을 하고 있습니까?",
+    "tokens": [
+      {
+        "surface": "今",
+        "kanji": "今",
+        "furigana": "いま",
+        "hasKanji": true
+      },
+      {
+        "surface": "、",
+        "hasKanji": false
+      },
+      {
+        "surface": "何",
+        "kanji": "何",
+        "furigana": "なん",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "か",
+        "hasKanji": false
+      },
+      {
+        "surface": "？",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "word": "今",
+    "word_id": 36,
+    "sentence": "今すぐ行きます。",
+    "kr": "지금 바로 갑니다.",
+    "tokens": [
+      {
+        "surface": "今",
+        "kanji": "今",
+        "furigana": "いま",
+        "hasKanji": true
+      },
+      {
+        "surface": "すぐ",
+        "hasKanji": false
+      },
+      {
+        "surface": "行き",
+        "kanji": "行",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "word": "後",
+    "word_id": 37,
+    "sentence": "後で電話をかけます。",
+    "kr": "나중에 전화를 걸겠습니다.",
+    "tokens": [
+      {
+        "surface": "後",
+        "kanji": "後",
+        "furigana": "あと",
+        "hasKanji": true
+      },
+      {
+        "surface": "で",
+        "hasKanji": false
+      },
+      {
+        "surface": "電話",
+        "kanji": "電話",
+        "furigana": "でんわ",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "かけ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "word": "後",
+    "word_id": 37,
+    "sentence": "映画の後、食事をしました。",
+    "kr": "영화 후에 식사를 했습니다.",
+    "tokens": [
+      {
+        "surface": "映画",
+        "kanji": "映画",
+        "furigana": "えいが",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "後",
+        "kanji": "後",
+        "furigana": "あと",
+        "hasKanji": true
+      },
+      {
+        "surface": "、",
+        "hasKanji": false
+      },
+      {
+        "surface": "食事",
+        "kanji": "食事",
+        "furigana": "しょくじ",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "word": "もう",
+    "word_id": 38,
+    "sentence": "もう一度お願いします。",
+    "kr": "한 번 더 부탁합니다.",
+    "tokens": [
+      {
+        "surface": "もう",
+        "hasKanji": false
+      },
+      {
+        "surface": "一",
+        "kanji": "一",
+        "furigana": "いち",
+        "hasKanji": true
+      },
+      {
+        "surface": "度",
+        "kanji": "度",
+        "furigana": "ど",
+        "hasKanji": true
+      },
+      {
+        "surface": "お",
+        "hasKanji": false
+      },
+      {
+        "surface": "願い",
+        "kanji": "願",
+        "furigana": "ねが",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "word": "もう",
+    "word_id": 38,
+    "sentence": "もう時間がありません。",
+    "kr": "더 이상 시간이 없습니다.",
+    "tokens": [
+      {
+        "surface": "もう",
+        "hasKanji": false
+      },
+      {
+        "surface": "時間",
+        "kanji": "時間",
+        "furigana": "じかん",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ませ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ん",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "word": "最後",
+    "word_id": 39,
+    "sentence": "最後の電車に乗りました。",
+    "kr": "마지막 전차를 탔습니다.",
+    "tokens": [
+      {
+        "surface": "最後",
+        "kanji": "最後",
+        "furigana": "さいご",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "電車",
+        "kanji": "電車",
+        "furigana": "でんしゃ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "乗り",
+        "kanji": "乗",
+        "furigana": "の",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "word": "最後",
+    "word_id": 39,
+    "sentence": "試合の最後で勝ちました。",
+    "kr": "시합의 마지막에 이겼습니다.",
+    "tokens": [
+      {
+        "surface": "試合",
+        "kanji": "試合",
+        "furigana": "しあい",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "最後",
+        "kanji": "最後",
+        "furigana": "さいご",
+        "hasKanji": true
+      },
+      {
+        "surface": "で",
+        "hasKanji": false
+      },
+      {
+        "surface": "勝ち",
+        "kanji": "勝",
+        "furigana": "か",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "word": "遅い",
+    "word_id": 40,
+    "sentence": "バスが遅いですね。",
+    "kr": "버스가 늦네요.",
+    "tokens": [
+      {
+        "surface": "バス",
+        "hasKanji": false
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "遅い",
+        "kanji": "遅",
+        "furigana": "おそ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "ね",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "word": "遅い",
+    "word_id": 40,
+    "sentence": "帰りが遅くなりました。",
+    "kr": "귀가가 늦어졌습니다.",
+    "tokens": [
+      {
+        "surface": "帰り",
+        "kanji": "帰",
+        "furigana": "かえ",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "遅く",
+        "kanji": "遅",
+        "furigana": "おそ",
+        "hasKanji": true
+      },
+      {
+        "surface": "なり",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "word": "一日中",
+    "word_id": 41,
+    "sentence": "一日中雨が降っていました。",
+    "kr": "하루 종일 비가 내렸습니다.",
+    "tokens": [
+      {
+        "surface": "一",
+        "kanji": "一",
+        "furigana": "いち",
+        "hasKanji": true
+      },
+      {
+        "surface": "日中",
+        "kanji": "日中",
+        "furigana": "にっちゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "雨",
+        "kanji": "雨",
+        "furigana": "う",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "降っ",
+        "kanji": "降",
+        "furigana": "ふ",
+        "hasKanji": true
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "word": "一日中",
+    "word_id": 41,
+    "sentence": "昨日は一日中家にいました。",
+    "kr": "어제는 하루 종일 집에 있었습니다.",
+    "tokens": [
+      {
+        "surface": "昨日",
+        "kanji": "昨日",
+        "furigana": "きのう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "一",
+        "kanji": "一",
+        "furigana": "いち",
+        "hasKanji": true
+      },
+      {
+        "surface": "日中",
+        "kanji": "日中",
+        "furigana": "にっちゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "家",
+        "kanji": "家",
+        "furigana": "か",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "word": "以内",
+    "word_id": 42,
+    "sentence": "一時間以内に終わります。",
+    "kr": "한 시간 이내에 끝납니다.",
+    "tokens": [
+      {
+        "surface": "一",
+        "kanji": "一",
+        "furigana": "いち",
+        "hasKanji": true
+      },
+      {
+        "surface": "時間",
+        "kanji": "時間",
+        "furigana": "じかん",
+        "hasKanji": true
+      },
+      {
+        "surface": "以内",
+        "kanji": "以内",
+        "furigana": "いない",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "終わり",
+        "kanji": "終",
+        "furigana": "お",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "word": "以内",
+    "word_id": 42,
+    "sentence": "三日以内に連絡します。",
+    "kr": "3일 이내에 연락하겠습니다.",
+    "tokens": [
+      {
+        "surface": "三",
+        "kanji": "三",
+        "furigana": "みっ",
+        "hasKanji": true
+      },
+      {
+        "surface": "日",
+        "kanji": "日",
+        "furigana": "か",
+        "hasKanji": true
+      },
+      {
+        "surface": "以内",
+        "kanji": "以内",
+        "furigana": "いない",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "連絡",
+        "kanji": "連絡",
+        "furigana": "れんらく",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "word": "時間",
+    "word_id": 43,
+    "sentence": "時間がありません。",
+    "kr": "시간이 없습니다.",
+    "tokens": [
+      {
+        "surface": "時間",
+        "kanji": "時間",
+        "furigana": "じかん",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ませ",
+        "hasKanji": false
+      },
+      {
+        "surface": "ん",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "word": "時間",
+    "word_id": 43,
+    "sentence": "勉強する時間を作りました。",
+    "kr": "공부할 시간을 만들었습니다.",
+    "tokens": [
+      {
+        "surface": "勉強",
+        "kanji": "勉強",
+        "furigana": "べんきょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "する",
+        "hasKanji": false
+      },
+      {
+        "surface": "時間",
+        "kanji": "時間",
+        "furigana": "じかん",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "作り",
+        "kanji": "作",
+        "furigana": "つく",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "word": "時",
+    "word_id": 44,
+    "sentence": "困った時は友達に相談します。",
+    "kr": "곤란할 때는 친구와 상담합니다.",
+    "tokens": [
+      {
+        "surface": "困っ",
+        "kanji": "困",
+        "furigana": "こま",
+        "hasKanji": true
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "時",
+        "kanji": "時",
+        "furigana": "とき",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "友達",
+        "kanji": "友達",
+        "furigana": "ともだち",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "相談",
+        "kanji": "相談",
+        "furigana": "そうだん",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "word": "時",
+    "word_id": 44,
+    "sentence": "眠い時はコーヒーを飲みます。",
+    "kr": "졸릴 때는 커피를 마십니다.",
+    "tokens": [
+      {
+        "surface": "眠い",
+        "kanji": "眠",
+        "furigana": "ねむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "時",
+        "kanji": "時",
+        "furigana": "とき",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "コーヒー",
+        "hasKanji": false
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "飲み",
+        "kanji": "飲",
+        "furigana": "の",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "word": "おととい",
+    "word_id": 45,
+    "sentence": "おととい友達に会いました。",
+    "kr": "그저께 친구를 만났습니다.",
+    "tokens": [
+      {
+        "surface": "おととい",
+        "hasKanji": false
+      },
+      {
+        "surface": "友達",
+        "kanji": "友達",
+        "furigana": "ともだち",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "会い",
+        "kanji": "会",
+        "furigana": "あ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "word": "おととい",
+    "word_id": 45,
+    "sentence": "おととい映画を見ました。",
+    "kr": "그저께 영화를 봤습니다.",
+    "tokens": [
+      {
+        "surface": "おととい",
+        "hasKanji": false
+      },
+      {
+        "surface": "映画",
+        "kanji": "映画",
+        "furigana": "えいが",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "見",
+        "kanji": "見",
+        "furigana": "み",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "word": "二日前",
+    "word_id": 46,
+    "sentence": "二日前に予約しました。",
+    "kr": "이틀 전에 예약했습니다.",
+    "tokens": [
+      {
+        "surface": "二",
+        "kanji": "二",
+        "furigana": "ふた",
+        "hasKanji": true
+      },
+      {
+        "surface": "日",
+        "kanji": "日",
+        "furigana": "か",
+        "hasKanji": true
+      },
+      {
+        "surface": "前",
+        "kanji": "前",
+        "furigana": "まえ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "予約",
+        "kanji": "予約",
+        "furigana": "よやく",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "word": "二日前",
+    "word_id": 46,
+    "sentence": "二日前から風邪をひいています。",
+    "kr": "이틀 전부터 감기에 걸렸습니다.",
+    "tokens": [
+      {
+        "surface": "二",
+        "kanji": "二",
+        "furigana": "ふた",
+        "hasKanji": true
+      },
+      {
+        "surface": "日",
+        "kanji": "日",
+        "furigana": "か",
+        "hasKanji": true
+      },
+      {
+        "surface": "前",
+        "kanji": "前",
+        "furigana": "まえ",
+        "hasKanji": true
+      },
+      {
+        "surface": "から",
+        "hasKanji": false
+      },
+      {
+        "surface": "風邪",
+        "kanji": "風邪",
+        "furigana": "かぜ",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "ひい",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "word": "昨日",
+    "word_id": 47,
+    "sentence": "昨日は疲れました。",
+    "kr": "어제는 피곤했습니다.",
+    "tokens": [
+      {
+        "surface": "昨日",
+        "kanji": "昨日",
+        "furigana": "きのう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "疲れ",
+        "kanji": "疲",
+        "furigana": "つか",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "word": "昨日",
+    "word_id": 47,
+    "sentence": "昨日友達と食事しました。",
+    "kr": "어제 친구와 식사했습니다.",
+    "tokens": [
+      {
+        "surface": "昨日",
+        "kanji": "昨日",
+        "furigana": "きのう",
+        "hasKanji": true
+      },
+      {
+        "surface": "友達",
+        "kanji": "友達",
+        "furigana": "ともだち",
+        "hasKanji": true
+      },
+      {
+        "surface": "と",
+        "hasKanji": false
+      },
+      {
+        "surface": "食事",
+        "kanji": "食事",
+        "furigana": "しょくじ",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "word": "今日",
+    "word_id": 48,
+    "sentence": "今日は暑いです。",
+    "kr": "오늘은 덥습니다.",
+    "tokens": [
+      {
+        "surface": "今日",
+        "kanji": "今日",
+        "furigana": "きょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "暑い",
+        "kanji": "暑",
+        "furigana": "あつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "word": "今日",
+    "word_id": 48,
+    "sentence": "今日の予定は何ですか？",
+    "kr": "오늘의 일정은 무엇입니까?",
+    "tokens": [
+      {
+        "surface": "今日",
+        "kanji": "今日",
+        "furigana": "きょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "予定",
+        "kanji": "予定",
+        "furigana": "よてい",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "何",
+        "kanji": "何",
+        "furigana": "なん",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "か",
+        "hasKanji": false
+      },
+      {
+        "surface": "？",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "word": "明日",
+    "word_id": 49,
+    "sentence": "明日試験があります。",
+    "kr": "내일 시험이 있습니다.",
+    "tokens": [
+      {
+        "surface": "明日",
+        "kanji": "明日",
+        "furigana": "あす",
+        "hasKanji": true
+      },
+      {
+        "surface": "試験",
+        "kanji": "試験",
+        "furigana": "しけん",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "word": "明日",
+    "word_id": 49,
+    "sentence": "明日は天気がいいです。",
+    "kr": "내일은 날씨가 좋습니다.",
+    "tokens": [
+      {
+        "surface": "明日",
+        "kanji": "明日",
+        "furigana": "あす",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "天気",
+        "kanji": "天気",
+        "furigana": "てんき",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "いい",
+        "hasKanji": false
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "word": "あさって",
+    "word_id": 50,
+    "sentence": "あさって旅行に行きます。",
+    "kr": "모레 여행을 갑니다.",
+    "tokens": [
+      {
+        "surface": "あさって",
+        "hasKanji": false
+      },
+      {
+        "surface": "旅行",
+        "kanji": "旅行",
+        "furigana": "りょこう",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "行き",
+        "kanji": "行",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "word": "あさって",
+    "word_id": 50,
+    "sentence": "あさっては休日です。",
+    "kr": "모레는 휴일입니다.",
+    "tokens": [
+      {
+        "surface": "あさって",
+        "hasKanji": false
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "休日",
+        "kanji": "休日",
+        "furigana": "きゅうじつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "word": "先日",
+    "word_id": 51,
+    "sentence": "先日、先生に会いました。",
+    "kr": "며칠 전에 선생님을 만났습니다.",
+    "tokens": [
+      {
+        "surface": "先日",
+        "kanji": "先日",
+        "furigana": "せんじつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "、",
+        "hasKanji": false
+      },
+      {
+        "surface": "先生",
+        "kanji": "先生",
+        "furigana": "せんせい",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "会い",
+        "kanji": "会",
+        "furigana": "あ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "word": "先日",
+    "word_id": 51,
+    "sentence": "先日送ったメールは届きましたか？",
+    "kr": "며칠 전에 보낸 메일은 도착했나요?",
+    "tokens": [
+      {
+        "surface": "先日",
+        "kanji": "先日",
+        "furigana": "せんじつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "送っ",
+        "kanji": "送",
+        "furigana": "おく",
+        "hasKanji": true
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "メール",
+        "hasKanji": false
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "届き",
+        "kanji": "届",
+        "furigana": "とど",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "か",
+        "hasKanji": false
+      },
+      {
+        "surface": "？",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "word": "先月",
+    "word_id": 52,
+    "sentence": "先月新しい店がオープンしました。",
+    "kr": "지난달에 새로운 가게가 열렸습니다.",
+    "tokens": [
+      {
+        "surface": "先月",
+        "kanji": "先月",
+        "furigana": "せんげつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "新しい",
+        "kanji": "新",
+        "furigana": "あたら",
+        "hasKanji": true
+      },
+      {
+        "surface": "店",
+        "kanji": "店",
+        "furigana": "みせ",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "オープン",
+        "hasKanji": false
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "word": "先月",
+    "word_id": 52,
+    "sentence": "先月は忙しかったです。",
+    "kr": "지난달은 바빴습니다.",
+    "tokens": [
+      {
+        "surface": "先月",
+        "kanji": "先月",
+        "furigana": "せんげつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "忙しかっ",
+        "kanji": "忙",
+        "furigana": "いそが",
+        "hasKanji": true
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "word": "先週",
+    "word_id": 53,
+    "sentence": "先週映画を見ました。",
+    "kr": "지난주에 영화를 봤습니다.",
+    "tokens": [
+      {
+        "surface": "先週",
+        "kanji": "先週",
+        "furigana": "せんしゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "映画",
+        "kanji": "映画",
+        "furigana": "えいが",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "見",
+        "kanji": "見",
+        "furigana": "み",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "word": "先週",
+    "word_id": 53,
+    "sentence": "先週のテストは難しかったです。",
+    "kr": "지난주 시험은 어려웠습니다.",
+    "tokens": [
+      {
+        "surface": "先週",
+        "kanji": "先週",
+        "furigana": "せんしゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "テスト",
+        "hasKanji": false
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "難しかっ",
+        "kanji": "難",
+        "furigana": "むずか",
+        "hasKanji": true
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "word": "今月",
+    "word_id": 54,
+    "sentence": "今月は出張があります。",
+    "kr": "이번 달에는 출장이 있습니다.",
+    "tokens": [
+      {
+        "surface": "今月",
+        "kanji": "今月",
+        "furigana": "こんげつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "出張",
+        "kanji": "出張",
+        "furigana": "しゅっちょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "word": "今月",
+    "word_id": 54,
+    "sentence": "今月の予定を確認してください。",
+    "kr": "이번 달 일정을 확인해 주세요.",
+    "tokens": [
+      {
+        "surface": "今月",
+        "kanji": "今月",
+        "furigana": "こんげつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "予定",
+        "kanji": "予定",
+        "furigana": "よてい",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "確認",
+        "kanji": "確認",
+        "furigana": "かくにん",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "ください",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "word": "今週",
+    "word_id": 55,
+    "sentence": "今週は雨が多いです。",
+    "kr": "이번 주는 비가 많이 옵니다.",
+    "tokens": [
+      {
+        "surface": "今週",
+        "kanji": "今週",
+        "furigana": "こんしゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "雨",
+        "kanji": "雨",
+        "furigana": "あめ",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "多い",
+        "kanji": "多",
+        "furigana": "おお",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "word": "今週",
+    "word_id": 55,
+    "sentence": "今週の宿題をもう終えました。",
+    "kr": "이번 주 숙제는 이미 끝냈습니다.",
+    "tokens": [
+      {
+        "surface": "今週",
+        "kanji": "今週",
+        "furigana": "こんしゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "宿題",
+        "kanji": "宿題",
+        "furigana": "しゅくだい",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "もう",
+        "hasKanji": false
+      },
+      {
+        "surface": "終え",
+        "kanji": "終",
+        "furigana": "お",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "word": "来月",
+    "word_id": 56,
+    "sentence": "来月引っ越します。",
+    "kr": "다음 달에 이사합니다.",
+    "tokens": [
+      {
+        "surface": "来月",
+        "kanji": "来月",
+        "furigana": "らいげつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "引っ越し",
+        "kanji": "引越",
+        "furigana": "ひっこし",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "word": "来月",
+    "word_id": 56,
+    "sentence": "来月はイベントがあります。",
+    "kr": "다음 달에는 행사가 있습니다.",
+    "tokens": [
+      {
+        "surface": "来月",
+        "kanji": "来月",
+        "furigana": "らいげつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "イベント",
+        "hasKanji": false
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "word": "来週",
+    "word_id": 57,
+    "sentence": "来週テストがあります。",
+    "kr": "다음 주에 시험이 있습니다.",
+    "tokens": [
+      {
+        "surface": "来週",
+        "kanji": "来週",
+        "furigana": "らいしゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "テスト",
+        "hasKanji": false
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "あり",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "word": "来週",
+    "word_id": 57,
+    "sentence": "来週また会いましょう。",
+    "kr": "다음 주에 다시 만나요.",
+    "tokens": [
+      {
+        "surface": "来週",
+        "kanji": "来週",
+        "furigana": "らいしゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "また",
+        "hasKanji": false
+      },
+      {
+        "surface": "会い",
+        "kanji": "会",
+        "furigana": "あ",
+        "hasKanji": true
+      },
+      {
+        "surface": "ましょう",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "word": "おととし",
+    "word_id": 58,
+    "sentence": "おととし日本へ行きました。",
+    "kr": "재작년에 일본에 갔습니다.",
+    "tokens": [
+      {
+        "surface": "おととし",
+        "hasKanji": false
+      },
+      {
+        "surface": "日本",
+        "kanji": "日本",
+        "furigana": "にっぽん",
+        "hasKanji": true
+      },
+      {
+        "surface": "へ",
+        "hasKanji": false
+      },
+      {
+        "surface": "行き",
+        "kanji": "行",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "word": "おととし",
+    "word_id": 58,
+    "sentence": "おととし大学を卒業しました。",
+    "kr": "재작년에 대학을 졸업했습니다.",
+    "tokens": [
+      {
+        "surface": "おととし",
+        "hasKanji": false
+      },
+      {
+        "surface": "大学",
+        "kanji": "大学",
+        "furigana": "だいがく",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "卒業",
+        "kanji": "卒業",
+        "furigana": "そつぎょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "word": "二年前",
+    "word_id": 59,
+    "sentence": "二年前に結婚しました。",
+    "kr": "2년 전에 결혼했습니다.",
+    "tokens": [
+      {
+        "surface": "二",
+        "kanji": "二",
+        "furigana": "に",
+        "hasKanji": true
+      },
+      {
+        "surface": "年",
+        "kanji": "年",
+        "furigana": "ねん",
+        "hasKanji": true
+      },
+      {
+        "surface": "前",
+        "kanji": "前",
+        "furigana": "まえ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "結婚",
+        "kanji": "結婚",
+        "furigana": "けっこん",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "word": "二年前",
+    "word_id": 59,
+    "sentence": "二年前から日本語を勉強しています。",
+    "kr": "2년 전부터 일본어를 공부하고 있습니다.",
+    "tokens": [
+      {
+        "surface": "二",
+        "kanji": "二",
+        "furigana": "に",
+        "hasKanji": true
+      },
+      {
+        "surface": "年",
+        "kanji": "年",
+        "furigana": "ねん",
+        "hasKanji": true
+      },
+      {
+        "surface": "前",
+        "kanji": "前",
+        "furigana": "まえ",
+        "hasKanji": true
+      },
+      {
+        "surface": "から",
+        "hasKanji": false
+      },
+      {
+        "surface": "日本",
+        "kanji": "日本",
+        "furigana": "にっぽん",
+        "hasKanji": true
+      },
+      {
+        "surface": "語",
+        "kanji": "語",
+        "furigana": "ご",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "勉強",
+        "kanji": "勉強",
+        "furigana": "べんきょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "word": "去年",
+    "word_id": 60,
+    "sentence": "去年の夏は暑かったです。",
+    "kr": "작년 여름은 더웠습니다.",
+    "tokens": [
+      {
+        "surface": "去年",
+        "kanji": "去年",
+        "furigana": "きょねん",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "夏",
+        "kanji": "夏",
+        "furigana": "なつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "暑かっ",
+        "kanji": "暑",
+        "furigana": "あつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "word": "去年",
+    "word_id": 60,
+    "sentence": "去年新しい仕事を始めました。",
+    "kr": "작년에 새로운 일을 시작했습니다.",
+    "tokens": [
+      {
+        "surface": "去年",
+        "kanji": "去年",
+        "furigana": "きょねん",
+        "hasKanji": true
+      },
+      {
+        "surface": "新しい",
+        "kanji": "新",
+        "furigana": "あたら",
+        "hasKanji": true
+      },
+      {
+        "surface": "仕事",
+        "kanji": "仕事",
+        "furigana": "しごと",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "始め",
+        "kanji": "始",
+        "furigana": "はじ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "word": "今年",
+    "word_id": 61,
+    "sentence": "今年は大学に入学しました。",
+    "kr": "올해는 대학에 입학했습니다.",
+    "tokens": [
+      {
+        "surface": "今年",
+        "kanji": "今年",
+        "furigana": "ことし",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "大学",
+        "kanji": "大学",
+        "furigana": "だいがく",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "入学",
+        "kanji": "入学",
+        "furigana": "にゅうがく",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "word": "今年",
+    "word_id": 61,
+    "sentence": "今年の冬はとても寒いです。",
+    "kr": "올해 겨울은 매우 춥습니다.",
+    "tokens": [
+      {
+        "surface": "今年",
+        "kanji": "今年",
+        "furigana": "ことし",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "冬",
+        "kanji": "冬",
+        "furigana": "ふゆ",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "とても",
+        "hasKanji": false
+      },
+      {
+        "surface": "寒い",
+        "kanji": "寒",
+        "furigana": "さむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "word": "来年",
+    "word_id": 62,
+    "sentence": "来年、日本に行きたいです。",
+    "kr": "내년에 일본에 가고 싶습니다.",
+    "tokens": [
+      {
+        "surface": "来年",
+        "kanji": "来年",
+        "furigana": "らいねん",
+        "hasKanji": true
+      },
+      {
+        "surface": "、",
+        "hasKanji": false
+      },
+      {
+        "surface": "日本",
+        "kanji": "日本",
+        "furigana": "にっぽん",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "行き",
+        "kanji": "行",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "たい",
+        "hasKanji": false
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "word": "来年",
+    "word_id": 62,
+    "sentence": "来年は新しい仕事を始めます。",
+    "kr": "내년에는 새로운 일을 시작합니다.",
+    "tokens": [
+      {
+        "surface": "来年",
+        "kanji": "来年",
+        "furigana": "らいねん",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "新しい",
+        "kanji": "新",
+        "furigana": "あたら",
+        "hasKanji": true
+      },
+      {
+        "surface": "仕事",
+        "kanji": "仕事",
+        "furigana": "しごと",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "始め",
+        "kanji": "始",
+        "furigana": "はじ",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "word": "再来年",
+    "word_id": 63,
+    "sentence": "再来年に卒業する予定です。",
+    "kr": "내후년에 졸업할 예정입니다.",
+    "tokens": [
+      {
+        "surface": "再来",
+        "kanji": "再来",
+        "furigana": "さらい",
+        "hasKanji": true
+      },
+      {
+        "surface": "年",
+        "kanji": "年",
+        "furigana": "ねん",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "卒業",
+        "kanji": "卒業",
+        "furigana": "そつぎょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "する",
+        "hasKanji": false
+      },
+      {
+        "surface": "予定",
+        "kanji": "予定",
+        "furigana": "よてい",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "word": "再来年",
+    "word_id": 63,
+    "sentence": "再来年、海外に行くつもりです。",
+    "kr": "내후년에 해외에 갈 생각입니다.",
+    "tokens": [
+      {
+        "surface": "再来",
+        "kanji": "再来",
+        "furigana": "さらい",
+        "hasKanji": true
+      },
+      {
+        "surface": "年",
+        "kanji": "年",
+        "furigana": "ねん",
+        "hasKanji": true
+      },
+      {
+        "surface": "、",
+        "hasKanji": false
+      },
+      {
+        "surface": "海外",
+        "kanji": "海外",
+        "furigana": "かいがい",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "行く",
+        "kanji": "行",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "つもり",
+        "hasKanji": false
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "word": "毎日",
+    "word_id": 64,
+    "sentence": "毎日新聞を読みます。",
+    "kr": "매일 신문을 읽습니다.",
+    "tokens": [
+      {
+        "surface": "毎日",
+        "kanji": "毎日",
+        "furigana": "まいにち",
+        "hasKanji": true
+      },
+      {
+        "surface": "新聞",
+        "kanji": "新聞",
+        "furigana": "しんぶん",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "読み",
+        "kanji": "読",
+        "furigana": "よ",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "word": "毎日",
+    "word_id": 64,
+    "sentence": "毎日会社に通っています。",
+    "kr": "매일 회사에 다니고 있습니다.",
+    "tokens": [
+      {
+        "surface": "毎日",
+        "kanji": "毎日",
+        "furigana": "まいにち",
+        "hasKanji": true
+      },
+      {
+        "surface": "会社",
+        "kanji": "会社",
+        "furigana": "かいしゃ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "通っ",
+        "kanji": "通",
+        "furigana": "かよ",
+        "hasKanji": true
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "word": "毎月",
+    "word_id": 65,
+    "sentence": "毎月お金を貯めています。",
+    "kr": "매달 돈을 모으고 있습니다.",
+    "tokens": [
+      {
+        "surface": "毎月",
+        "kanji": "毎月",
+        "furigana": "まいつき",
+        "hasKanji": true
+      },
+      {
+        "surface": "お",
+        "hasKanji": false
+      },
+      {
+        "surface": "金",
+        "kanji": "金",
+        "furigana": "かね",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "貯め",
+        "kanji": "貯",
+        "furigana": "た",
+        "hasKanji": true
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "word": "毎月",
+    "word_id": 65,
+    "sentence": "毎月本を三冊読みます。",
+    "kr": "매달 책을 세 권 읽습니다.",
+    "tokens": [
+      {
+        "surface": "毎月",
+        "kanji": "毎月",
+        "furigana": "まいつき",
+        "hasKanji": true
+      },
+      {
+        "surface": "本",
+        "kanji": "本",
+        "furigana": "ほん",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "三",
+        "kanji": "三",
+        "furigana": "さん",
+        "hasKanji": true
+      },
+      {
+        "surface": "冊",
+        "kanji": "冊",
+        "furigana": "さつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "読み",
+        "kanji": "読",
+        "furigana": "よ",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "word": "毎年",
+    "word_id": 66,
+    "sentence": "毎年家族で旅行します。",
+    "kr": "매년 가족과 여행을 갑니다.",
+    "tokens": [
+      {
+        "surface": "毎年",
+        "kanji": "毎年",
+        "furigana": "まいとし",
+        "hasKanji": true
+      },
+      {
+        "surface": "家族",
+        "kanji": "家族",
+        "furigana": "かぞく",
+        "hasKanji": true
+      },
+      {
+        "surface": "で",
+        "hasKanji": false
+      },
+      {
+        "surface": "旅行",
+        "kanji": "旅行",
+        "furigana": "りょこう",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "word": "毎年",
+    "word_id": 66,
+    "sentence": "毎年この時期は忙しいです。",
+    "kr": "매년 이 시기는 바쁩니다.",
+    "tokens": [
+      {
+        "surface": "毎年",
+        "kanji": "毎年",
+        "furigana": "まいとし",
+        "hasKanji": true
+      },
+      {
+        "surface": "この",
+        "hasKanji": false
+      },
+      {
+        "surface": "時期",
+        "kanji": "時期",
+        "furigana": "じき",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "忙しい",
+        "kanji": "忙",
+        "furigana": "いそが",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "word": "半年",
+    "word_id": 67,
+    "sentence": "日本で半年間暮らしました。",
+    "kr": "일본에서 반년 동안 살았습니다.",
+    "tokens": [
+      {
+        "surface": "日本",
+        "kanji": "日本",
+        "furigana": "にっぽん",
+        "hasKanji": true
+      },
+      {
+        "surface": "で",
+        "hasKanji": false
+      },
+      {
+        "surface": "半年",
+        "kanji": "半年",
+        "furigana": "はんとし",
+        "hasKanji": true
+      },
+      {
+        "surface": "間",
+        "kanji": "間",
+        "furigana": "かん",
+        "hasKanji": true
+      },
+      {
+        "surface": "暮らし",
+        "kanji": "暮",
+        "furigana": "く",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "word": "半年",
+    "word_id": 67,
+    "sentence": "半年ごとに健康診断を受けます。",
+    "kr": "반년마다 건강검진을 받습니다.",
+    "tokens": [
+      {
+        "surface": "半年",
+        "kanji": "半年",
+        "furigana": "はんとし",
+        "hasKanji": true
+      },
+      {
+        "surface": "ごと",
+        "hasKanji": false
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "健康",
+        "kanji": "健康",
+        "furigana": "けんこう",
+        "hasKanji": true
+      },
+      {
+        "surface": "診断",
+        "kanji": "診断",
+        "furigana": "しんだん",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "受け",
+        "kanji": "受",
+        "furigana": "う",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "word": "眠い",
+    "word_id": 68,
+    "sentence": "授業中、とても眠いです。",
+    "kr": "수업 중에 너무 졸려요.",
+    "tokens": [
+      {
+        "surface": "授業",
+        "kanji": "授業",
+        "furigana": "じゅぎょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "中",
+        "kanji": "中",
+        "furigana": "ちゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "、",
+        "hasKanji": false
+      },
+      {
+        "surface": "とても",
+        "hasKanji": false
+      },
+      {
+        "surface": "眠い",
+        "kanji": "眠",
+        "furigana": "ねむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "word": "眠い",
+    "word_id": 68,
+    "sentence": "今日は朝から眠いです。",
+    "kr": "오늘은 아침부터 졸립니다.",
+    "tokens": [
+      {
+        "surface": "今日",
+        "kanji": "今日",
+        "furigana": "きょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "朝",
+        "kanji": "朝",
+        "furigana": "あさ",
+        "hasKanji": true
+      },
+      {
+        "surface": "から",
+        "hasKanji": false
+      },
+      {
+        "surface": "眠い",
+        "kanji": "眠",
+        "furigana": "ねむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "word": "眠たい",
+    "word_id": 69,
+    "sentence": "ご飯を食べたら眠たくなりました。",
+    "kr": "밥을 먹었더니 졸려졌습니다.",
+    "tokens": [
+      {
+        "surface": "ご飯",
+        "kanji": "飯",
+        "furigana": "ごはん",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "食べ",
+        "kanji": "食",
+        "furigana": "た",
+        "hasKanji": true
+      },
+      {
+        "surface": "たら",
+        "hasKanji": false
+      },
+      {
+        "surface": "眠たく",
+        "kanji": "眠",
+        "furigana": "ねむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "なり",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "word": "眠たい",
+    "word_id": 69,
+    "sentence": "夜遅くまで起きていて眠たいです。",
+    "kr": "밤 늦게까지 깨어 있어서 졸려요.",
+    "tokens": [
+      {
+        "surface": "夜",
+        "kanji": "夜",
+        "furigana": "よる",
+        "hasKanji": true
+      },
+      {
+        "surface": "遅く",
+        "kanji": "遅",
+        "furigana": "おそ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まで",
+        "hasKanji": false
+      },
+      {
+        "surface": "起き",
+        "kanji": "起",
+        "furigana": "お",
+        "hasKanji": true
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "眠たい",
+        "kanji": "眠",
+        "furigana": "ねむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "です",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "word": "眠る",
+    "word_id": 70,
+    "sentence": "赤ちゃんがぐっすり眠っています。",
+    "kr": "아기가 푹 자고 있습니다.",
+    "tokens": [
+      {
+        "surface": "赤ちゃん",
+        "kanji": "赤",
+        "furigana": "あか",
+        "hasKanji": true
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "ぐっすり",
+        "hasKanji": false
+      },
+      {
+        "surface": "眠っ",
+        "kanji": "眠",
+        "furigana": "ねむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "い",
+        "hasKanji": false
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "word": "眠る",
+    "word_id": 70,
+    "sentence": "音楽を聞きながら眠りました。",
+    "kr": "음악을 들으며 잠들었습니다.",
+    "tokens": [
+      {
+        "surface": "音楽",
+        "kanji": "音楽",
+        "furigana": "おんがく",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "聞き",
+        "kanji": "聞",
+        "furigana": "き",
+        "hasKanji": true
+      },
+      {
+        "surface": "ながら",
+        "hasKanji": false
+      },
+      {
+        "surface": "眠り",
+        "kanji": "眠",
+        "furigana": "ねむ",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "word": "寝る",
+    "word_id": 71,
+    "sentence": "毎晩十一時に寝ます。",
+    "kr": "매일 밤 11시에 잡니다.",
+    "tokens": [
+      {
+        "surface": "毎晩",
+        "kanji": "毎晩",
+        "furigana": "まいばん",
+        "hasKanji": true
+      },
+      {
+        "surface": "十",
+        "kanji": "十",
+        "furigana": "じゅう",
+        "hasKanji": true
+      },
+      {
+        "surface": "一",
+        "kanji": "一",
+        "furigana": "いち",
+        "hasKanji": true
+      },
+      {
+        "surface": "時",
+        "kanji": "時",
+        "furigana": "じ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "寝",
+        "kanji": "寝",
+        "furigana": "ね",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "word": "寝る",
+    "word_id": 71,
+    "sentence": "今日は早く寝ようと思います。",
+    "kr": "오늘은 일찍 자려고 합니다.",
+    "tokens": [
+      {
+        "surface": "今日",
+        "kanji": "今日",
+        "furigana": "きょう",
+        "hasKanji": true
+      },
+      {
+        "surface": "は",
+        "hasKanji": false
+      },
+      {
+        "surface": "早く",
+        "kanji": "早",
+        "furigana": "はや",
+        "hasKanji": true
+      },
+      {
+        "surface": "寝よう",
+        "kanji": "寝",
+        "furigana": "ね",
+        "hasKanji": true
+      },
+      {
+        "surface": "と",
+        "hasKanji": false
+      },
+      {
+        "surface": "思い",
+        "kanji": "思",
+        "furigana": "おも",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "word": "寝坊",
+    "word_id": 72,
+    "sentence": "寝坊して学校に遅れました。",
+    "kr": "늦잠 자서 학교에 지각했습니다.",
+    "tokens": [
+      {
+        "surface": "寝坊",
+        "kanji": "寝坊",
+        "furigana": "ねぼう",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "て",
+        "hasKanji": false
+      },
+      {
+        "surface": "学校",
+        "kanji": "学校",
+        "furigana": "がっこう",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "遅れ",
+        "kanji": "遅",
+        "furigana": "おく",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "word": "寝坊",
+    "word_id": 72,
+    "sentence": "寝坊しないように目覚ましをかけました。",
+    "kr": "늦잠 자지 않도록 알람을 맞췄습니다.",
+    "tokens": [
+      {
+        "surface": "寝坊",
+        "kanji": "寝坊",
+        "furigana": "ねぼう",
+        "hasKanji": true
+      },
+      {
+        "surface": "し",
+        "hasKanji": false
+      },
+      {
+        "surface": "ない",
+        "hasKanji": false
+      },
+      {
+        "surface": "よう",
+        "hasKanji": false
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "目覚まし",
+        "kanji": "目覚",
+        "furigana": "めざまし",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "かけ",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "word": "出る",
+    "word_id": 73,
+    "sentence": "今、家を出ます。",
+    "kr": "지금 집을 나섭니다.",
+    "tokens": [
+      {
+        "surface": "今",
+        "kanji": "今",
+        "furigana": "いま",
+        "hasKanji": true
+      },
+      {
+        "surface": "、",
+        "hasKanji": false
+      },
+      {
+        "surface": "家",
+        "kanji": "家",
+        "furigana": "いえ",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "出",
+        "kanji": "出",
+        "furigana": "で",
+        "hasKanji": true
+      },
+      {
+        "surface": "ます",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "word": "出る",
+    "word_id": 73,
+    "sentence": "試合に出ることになりました。",
+    "kr": "경기에 출전하게 되었습니다.",
+    "tokens": [
+      {
+        "surface": "試合",
+        "kanji": "試合",
+        "furigana": "しあい",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "出る",
+        "kanji": "出",
+        "furigana": "で",
+        "hasKanji": true
+      },
+      {
+        "surface": "こと",
+        "hasKanji": false
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "なり",
+        "hasKanji": false
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "word": "届ける",
+    "word_id": 74,
+    "sentence": "荷物を友達の家に届けました。",
+    "kr": "짐을 친구 집에 배달했습니다.",
+    "tokens": [
+      {
+        "surface": "荷物",
+        "kanji": "荷物",
+        "furigana": "にもつ",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "友達",
+        "kanji": "友達",
+        "furigana": "ともだち",
+        "hasKanji": true
+      },
+      {
+        "surface": "の",
+        "hasKanji": false
+      },
+      {
+        "surface": "家",
+        "kanji": "家",
+        "furigana": "いえ",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "届け",
+        "kanji": "届",
+        "furigana": "とど",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "word": "届ける",
+    "word_id": 74,
+    "sentence": "先生に書類を届けに行きました。",
+    "kr": "선생님께 서류를 전하러 갔습니다.",
+    "tokens": [
+      {
+        "surface": "先生",
+        "kanji": "先生",
+        "furigana": "せんせい",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "書類",
+        "kanji": "書類",
+        "furigana": "しょるい",
+        "hasKanji": true
+      },
+      {
+        "surface": "を",
+        "hasKanji": false
+      },
+      {
+        "surface": "届け",
+        "kanji": "届",
+        "furigana": "とど",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "行き",
+        "kanji": "行",
+        "furigana": "い",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "word": "届く",
+    "word_id": 75,
+    "sentence": "プレゼントが届きました。",
+    "kr": "선물이 도착했습니다.",
+    "tokens": [
+      {
+        "surface": "プレゼント",
+        "hasKanji": false
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "届き",
+        "kanji": "届",
+        "furigana": "とど",
+        "hasKanji": true
+      },
+      {
+        "surface": "まし",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "word": "届く",
+    "word_id": 75,
+    "sentence": "メールが相手に届かなかった。",
+    "kr": "메일이 상대에게 도착하지 않았습니다.",
+    "tokens": [
+      {
+        "surface": "メール",
+        "hasKanji": false
+      },
+      {
+        "surface": "が",
+        "hasKanji": false
+      },
+      {
+        "surface": "相手",
+        "kanji": "相手",
+        "furigana": "あいて",
+        "hasKanji": true
+      },
+      {
+        "surface": "に",
+        "hasKanji": false
+      },
+      {
+        "surface": "届か",
+        "kanji": "届",
+        "furigana": "とど",
+        "hasKanji": true
+      },
+      {
+        "surface": "なかっ",
+        "hasKanji": false
+      },
+      {
+        "surface": "た",
+        "hasKanji": false
+      },
+      {
+        "surface": "。",
+        "hasKanji": false
+      }
+    ]
+  }
+]
