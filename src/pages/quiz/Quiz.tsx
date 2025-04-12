@@ -15,18 +15,19 @@ const Quiz = () => {
     const wordList = words.filter(
       (word) => word.day === Number(day) && word.kanji
     );
-    wordList.sort(() => Math.random() - 0.5).slice(0, 10);
     console.log("wordList => ", wordList);
+    wordList.sort(() => Math.random() - 0.5).slice(0, 10);
+
     setQuizWords(wordList);
     setIsLoading(false);
   }, [day]);
 
   return (
-    <div>
+    <div className="w-full h-full">
       {isLoading ? (
         <h1>Loading...</h1>
       ) : (
-        <QuizContainer quizWords={quizWords} />
+        <QuizContainer quizWords={quizWords} isLoading={isLoading} />
       )}
     </div>
   );

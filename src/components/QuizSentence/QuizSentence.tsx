@@ -1,3 +1,5 @@
+import { Fragment } from "react/jsx-runtime";
+
 interface Token {
   surface: string; // 실제 표면 문자열 (표시되는 텍스트)
   hasKanji: boolean; // 한자가 포함되어 있는지 여부
@@ -8,26 +10,39 @@ interface Token {
 interface QuizSentenceProps {
   targetWord: string;
   tokens: Token[] | undefined;
+  isRoundEnded: boolean;
 }
 
-const QuizSentence = ({ tokens, targetWord }: QuizSentenceProps) => {
+const QuizSentence = ({
+  tokens,
+  targetWord,
+  isRoundEnded,
+}: QuizSentenceProps) => {
   return (
     <span className="text-white">
-      {tokens?.map((token, index) => {
+      {tokens?.map((token) => {
         if (token.hasKanji && token.kanji && token.furigana) {
+          const hiragana = token.surface.split(token?.kanji || "");
           return (
-            <ruby
-              className={
-                token.kanji === targetWord ? "underline underline-offset-2" : ""
-              }
-              key={index}
-            >
-              {token.kanji}
-              <rt className="text-white">{token.furigana}</rt>
-            </ruby>
+            <Fragment key={token.kanji}>
+              <span>{hiragana[0]}</span>
+              <ruby
+                className={
+                  token.kanji === targetWord
+                    ? "underline underline-offset-2"
+                    : ""
+                }
+              >
+                {token.kanji}
+                {isRoundEnded && (
+                  <rt className="text-white">{token.furigana}</rt>
+                )}
+              </ruby>
+              <span>{hiragana[1]}</span>
+            </Fragment>
           );
         } else {
-          return <span key={index}>{token.surface}</span>;
+          return <span key={token.surface}>{token.surface}</span>;
         }
       })}
     </span>

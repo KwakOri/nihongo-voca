@@ -8,6 +8,7 @@ import words from "../../db/words.json";
 
 interface QuizContainerProps {
   quizWords: WordData[];
+  isLoading: boolean;
 }
 
 const QuizContainer = ({ quizWords }: QuizContainerProps) => {
@@ -18,6 +19,7 @@ const QuizContainer = ({ quizWords }: QuizContainerProps) => {
   const [hasNext, setHasNext] = useState<boolean>(true);
   const [isRoundEnded, setIsRoundEnded] = useState<boolean>(false);
   const [answerCount, setAnswerCount] = useState<number>(0);
+  const [isLoading, setIsLoading] = useState<boolean>(true);
 
   const lastIndex = quizWords.length - 1;
   const targetWord = quizWords[currentIndex];
@@ -53,24 +55,37 @@ const QuizContainer = ({ quizWords }: QuizContainerProps) => {
       const shuffled = [...arr].sort(() => 0.5 - Math.random());
       return shuffled.slice(0, 3);
     };
+    const targetWord = quizWords[currentIndex];
     const selectList = getRandomThree(
       Array.from(
         new Set(
           words
-            .filter((word) => word.part === targetWord?.part)
-            .filter((word) => word.id !== targetWord?.id)
+            .filter((word) => {
+              if (word.part === "동사" || word.part === "형용사") {
+                return word.part === "동사" || word.part === "형용사";
+              } else {
+                return word.part === targetWord?.part;
+              }
+            })
+            .filter((word) => word.furigana !== targetWord?.furigana)
             .map((word) => word.furigana)
         )
       )
     );
+
     selectList.push(targetWord?.furigana || "");
     selectList.sort(() => Math.random() - 0.5);
 
     setSelectList(selectList);
+    setIsLoading(false);
   }, [currentIndex]);
 
-  return (
-    <div className="flex flex-col items-start justify-center gap-2">
+  return isLoading ? (
+    <div className="w-full h-full flex justify-center items-center">
+      <p className="text-2xl text-white">로딩중...</p>
+    </div>
+  ) : (
+    <div className="w-full h-full flex flex-col items-start justify-center gap-2">
       <div className="w-full h-10 grid grid-cols-3 gap-2">
         <button
           className={
@@ -89,9 +104,10 @@ const QuizContainer = ({ quizWords }: QuizContainerProps) => {
       </div>
       {/* Quiz 문장 */}
       <div
-        className={`rounded bg-[#2d2d2d] w-full aspect-square flex flex-col justify-center gap-10 `}
+        className={`rounded bg-[#2d2d2d] w-full h-full flex-1 grow flex flex-col justify-center gap-10 `}
       >
         <QuizSentence
+          isRoundEnded={isRoundEnded}
           tokens={targetSentence?.tokens}
           targetWord={targetWord?.kanji || ""}
         />
@@ -100,17 +116,15 @@ const QuizContainer = ({ quizWords }: QuizContainerProps) => {
       {/* 선택지 */}
 
       <div className="w-full grid grid-cols-2 gap-2">
-        {selectList.map((select, index) => {
-          const word =
-            (targetWord?.prefix || "") +
-            (select || "") +
-            (targetWord?.hiragana || "");
+        {selectList.map((select) => {
+          console.log(select);
+          const word = select || "";
           return (
-            <div className={"w-full"} key={index}>
+            <div className={"w-full"} key={select}>
               <label
-                htmlFor={String(index)}
+                htmlFor={String(select)}
                 className={`flex justify-center items-center gap-2 cursor-pointer w-full aspect-video rounded ${
-                  targetWord.pronunciation === word && isRoundEnded
+                  targetWord.furigana === word && isRoundEnded
                     ? "bg-[#3c559c]"
                     : selectedValue === word
                     ? "bg-[#a74040]"
@@ -120,7 +134,7 @@ const QuizContainer = ({ quizWords }: QuizContainerProps) => {
                 <p className="text-base text-white">{word}</p>
               </label>
               <input
-                id={String(index)}
+                id={String(select)}
                 type="radio"
                 name="answer"
                 value={select || ""}

@@ -8,4 +8,5 @@ rt {
   @apply text-[8px] text-gray-500 font-medium;
   line-height: 1; /* 필요시 후리가나 줄 간격 조정 */
   margin-bottom: 2px;
+  text-align: center;
 }
