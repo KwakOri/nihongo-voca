@@ -86,7 +86,7 @@ const QuizContainer = ({ quizWords }: QuizContainerProps) => {
     </div>
   ) : (
     <div className="w-full h-full flex flex-col items-start justify-center gap-2">
-      <div className="w-full h-10 grid grid-cols-3 gap-2">
+      <div className=" w-full h-10 grid grid-cols-3 gap-2">
         <button
           className={
             "rounded bg-[#2d2d2d] w-full h-full flex justify-center items-center text-white text-xs"

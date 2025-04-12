@@ -15,7 +15,6 @@ const Quiz = () => {
     const wordList = words.filter(
       (word) => word.day === Number(day) && word.kanji
     );
-    console.log("wordList => ", wordList);
     wordList.sort(() => Math.random() - 0.5).slice(0, 10);
 
     setQuizWords(wordList);
